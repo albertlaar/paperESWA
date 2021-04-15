@@ -1,0 +1,602 @@
+\begin{thebibliography}{65}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Appel et~al.(2016)Appel, Chiclana, Carter \& Fujita}]{Appel2016}
+\bibinfo{author}{Appel, O.}, \bibinfo{author}{Chiclana, F.},
+  \bibinfo{author}{Carter, J.}, \& \bibinfo{author}{Fujita, H.}
+  (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{{A hybrid approach to the sentiment analysis problem
+  at the sentence level}}.
+\newblock {\it \bibinfo{journal}{Knowledge-Based Systems}\/},  {\it
+  \bibinfo{volume}{108}\/}, \bibinfo{pages}{110--124}.
+%Type = Article
+\bibitem[{Ayoko et~al.(2008)Ayoko, Callan \& H{\"{a}}rtel}]{Ayoko2008}
+\bibinfo{author}{Ayoko, O.~B.}, \bibinfo{author}{Callan, V.~J.}, \&
+  \bibinfo{author}{H{\"{a}}rtel, C. E.~J.} (\bibinfo{year}{2008}).
+\newblock \bibinfo{title}{{Group Research}}.
+\newblock {\it \bibinfo{journal}{Small Group Research}\/},  {\it
+  \bibinfo{volume}{39}\/}, \bibinfo{pages}{121--149}.
+%Type = Book
+\bibitem[{Bales(1950)}]{Bales1950}
+\bibinfo{author}{Bales, R.} (\bibinfo{year}{1950}).
+\newblock {\it \bibinfo{title}{Interaction Process Analysis: A Method for the
+  Study of Small Groups}\/}.
+\newblock \bibinfo{publisher}{Cambridge, Mass. Addison-Wesley Press}.
+%Type = Book
+\bibitem[{Bales \& Steven(1979)}]{Bales1979}
+\bibinfo{author}{Bales, R.}, \& \bibinfo{author}{Steven, C.}
+  (\bibinfo{year}{1979}).
+\newblock {\it \bibinfo{title}{{SYMLOG: A System for the Multiple Level
+  Observation of Groups}}\/}.
+\newblock \bibinfo{address}{New York}: \bibinfo{publisher}{Free}.
+%Type = Article
+\bibitem[{Barsade(2009)}]{Barsade2009}
+\bibinfo{author}{Barsade, S.~G.} (\bibinfo{year}{2009}).
+\newblock \bibinfo{title}{{The Ripple Effect : Emotional Contagion and Its
+  Influence on Group Behavior}}.
+\newblock {\it \bibinfo{journal}{Administrative Science Quarterly}\/},  {\it
+  \bibinfo{volume}{47}\/}, \bibinfo{pages}{644--675}.
+%Type = Article
+\bibitem[{Breiman(2001)}]{Breiman2001}
+\bibinfo{author}{Breiman, L.} (\bibinfo{year}{2001}).
+\newblock \bibinfo{title}{{Random forests}}.
+\newblock {\it \bibinfo{journal}{Machine Learning}\/},  {\it
+  \bibinfo{volume}{45}\/}, \bibinfo{pages}{5--32}.
+%Type = Article
+\bibitem[{Buchs et~al.(2004)Buchs, Butera, Mugny \& Darnon}]{Buchs2004}
+\bibinfo{author}{Buchs, C.}, \bibinfo{author}{Butera, F.},
+  \bibinfo{author}{Mugny, G.}, \& \bibinfo{author}{Darnon, C.}
+  (\bibinfo{year}{2004}).
+\newblock \bibinfo{title}{{Conflict Elaboration and Cognitive Outcomes}}.
+\newblock {\it \bibinfo{journal}{Therory Into Practice}\/},  {\it
+  \bibinfo{volume}{43}\/}, \bibinfo{pages}{23--30}.
+%Type = Inproceedings
+\bibitem[{Cambria et~al.(2010)Cambria, Speer, Havasi \&
+  Hussain}]{cambria2010senticnet}
+\bibinfo{author}{Cambria, E.}, \bibinfo{author}{Speer, R.},
+  \bibinfo{author}{Havasi, C.}, \& \bibinfo{author}{Hussain, A.}
+  (\bibinfo{year}{2010}).
+\newblock \bibinfo{title}{Senticnet: A publicly available semantic resource for
+  opinion mining.}
+\newblock In {\it \bibinfo{booktitle}{AAAI fall symposium: commonsense
+  knowledge}\/}.
+\newblock \bibinfo{organization}{Citeseer} volume~\bibinfo{volume}{10}.
+%Type = Article
+\bibitem[{Capdeferro \& Romero(2012)}]{Capdeferro2012}
+\bibinfo{author}{Capdeferro, N.}, \& \bibinfo{author}{Romero, M.}
+  (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{{Are Online Learners Frustrated with Collaborative
+  Learning Experiences?}}
+\newblock {\it \bibinfo{journal}{The International Review of Research in Open
+  and Distance Learning}\/},  {\it \bibinfo{volume}{13}\/}.
+%Type = Book
+\bibitem[{{Cohen. J.}(1988)}]{Cohen.J.1988}
+\bibinfo{author}{{Cohen. J.}} (\bibinfo{year}{1988}).
+\newblock {\it \bibinfo{title}{{Statistical power analysis for the behavioral
+  sciences}}\/}.
+\newblock (\bibinfo{edition}{2nd} ed.).
+\newblock \bibinfo{address}{Hillsdale, NJ}: \bibinfo{publisher}{Lawrence
+  Erlbaum}.
+%Type = Incollection
+\bibitem[{Coppin \& Sander(2013)}]{Coppin2013}
+\bibinfo{author}{Coppin, G.}, \& \bibinfo{author}{Sander, D.}
+  (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{{Contemporary Theories and Concepts in the Psychology
+  of Emotions}}.
+\newblock In \bibinfo{editor}{C.~Pelachaud} (Ed.), {\it
+  \bibinfo{booktitle}{Emotion-Oriented Systems}\/} (pp.
+  \bibinfo{pages}{3--32}).
+\newblock \bibinfo{address}{New York, USA}: \bibinfo{publisher}{John Wiley {\&}
+  Sons, Inc.}
+%Type = Article
+\bibitem[{Dreu \& Weingart(2003)}]{Dreu2003}
+\bibinfo{author}{Dreu, C. K. W.~D.}, \& \bibinfo{author}{Weingart, L.~R.}
+  (\bibinfo{year}{2003}).
+\newblock \bibinfo{title}{{Task Versus Relationship Conflict, Team Performance,
+  and Team Member Satisfaction: A Meta-Analysis}}.
+\newblock {\it \bibinfo{journal}{Journal of Applied Psychology}\/},  {\it
+  \bibinfo{volume}{88}\/}, \bibinfo{pages}{741--749}.
+%Type = Article
+\bibitem[{Feidakis et~al.(2014)Feidakis, Daradoumis, Caball{\'{e}} \&
+  Conesa}]{Feidakis2014}
+\bibinfo{author}{Feidakis, M.}, \bibinfo{author}{Daradoumis, T.},
+  \bibinfo{author}{Caball{\'{e}}, S.}, \& \bibinfo{author}{Conesa, J.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{Embedding Emotion Awareness into E-Learning
+  Environments}}.
+\newblock {\it \bibinfo{journal}{International Journal of Emerging Technologies
+  in Learning (IJET)}\/},  {\it \bibinfo{volume}{9}\/},
+  \bibinfo{pages}{39--46}.
+%Type = Article
+\bibitem[{Garcia-Prieto et~al.(2003)Garcia-Prieto, Bellard \&
+  Schneider}]{Garcia-prieto2003}
+\bibinfo{author}{Garcia-Prieto, P.}, \bibinfo{author}{Bellard, E.}, \&
+  \bibinfo{author}{Schneider, S.~C.} (\bibinfo{year}{2003}).
+\newblock \bibinfo{title}{{Experiencing Diversity, Conflict, and Emotions in
+  Teams}}.
+\newblock {\it \bibinfo{journal}{Applied Psychology: An International
+  Review}\/},  {\it \bibinfo{volume}{52}\/}, \bibinfo{pages}{413--440}.
+%Type = Article
+\bibitem[{Garcia-Prieto et~al.(2007)Garcia-Prieto, Mackie, Tran \&
+  Smith}]{Garcia-Prieto2007}
+\bibinfo{author}{Garcia-Prieto, P.}, \bibinfo{author}{Mackie, D.~M.},
+  \bibinfo{author}{Tran, V.}, \& \bibinfo{author}{Smith, E.~R.}
+  (\bibinfo{year}{2007}).
+\newblock \bibinfo{title}{{Chapter 7 Intergroup Emotions in Workgroups: Some
+  Emotional Antecedents and Consequences of Belonging}}.
+\newblock {\it \bibinfo{journal}{Research on Managing Groups and Teams}\/},
+  {\it \bibinfo{volume}{10}\/}, \bibinfo{pages}{145--184}.
+%Type = Article
+\bibitem[{Giatsoglou et~al.(2017)Giatsoglou, Vozalis, Diamantaras, Vakali,
+  Sarigiannidis \& Chatzisavvas}]{Giatsoglou2017}
+\bibinfo{author}{Giatsoglou, M.}, \bibinfo{author}{Vozalis, M.~G.},
+  \bibinfo{author}{Diamantaras, K.}, \bibinfo{author}{Vakali, A.},
+  \bibinfo{author}{Sarigiannidis, G.}, \& \bibinfo{author}{Chatzisavvas, K.~C.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{Sentiment analysis leveraging emotions and word
+  embeddings}}.
+\newblock {\it \bibinfo{journal}{Expert Systems with Applications}\/},  {\it
+  \bibinfo{volume}{69}\/}, \bibinfo{pages}{214--224}.
+%Type = Article
+\bibitem[{Gokhale(1995)}]{gokhale1995collaborative}
+\bibinfo{author}{Gokhale, A.~A.} (\bibinfo{year}{1995}).
+\newblock \bibinfo{title}{Collaborative learning enhances critical thinking}.
+\newblock {\it \bibinfo{journal}{Journal of Technology Education}\/}, .
+%Type = Book
+\bibitem[{Gupta \& Sinha(2000)}]{GUPTA2000}
+\bibinfo{author}{Gupta, P.}, \& \bibinfo{author}{Sinha, N.~K.}
+  (\bibinfo{year}{2000}).
+\newblock {\it \bibinfo{title}{Neural Networks for Identification of Nonlinear
+  Systems: An Overview}\/}.
+\newblock \bibinfo{publisher}{Academic Press}.
+\newblock \URLprefix
+  \url{http://dx.doiXX.org/10.1016/B978-0-12-646490-0.50017-2}.
+%Type = Article
+\bibitem[{Heerdink et~al.(2013)Heerdink, Kleef, Homan \&
+  Fischer}]{Heerdink2013}
+\bibinfo{author}{Heerdink, M.~W.}, \bibinfo{author}{Kleef, G. A.~V.},
+  \bibinfo{author}{Homan, A.~C.}, \& \bibinfo{author}{Fischer, A.~H.}
+  (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{{On the Social Influence of Emotions in Groups :
+  Interpersonal Effects of Anger and Happiness on Conformity Versus Deviance}}.
+\newblock {\it \bibinfo{journal}{Journal of Personality and Social
+  Psychology}\/},  {\it \bibinfo{volume}{105}\/}, \bibinfo{pages}{262--284}.
+%Type = Article
+\bibitem[{Hssina et~al.(2014)Hssina, Merbouha, Ezzikouri \&
+  Erritali}]{Hssina2014}
+\bibinfo{author}{Hssina, B.}, \bibinfo{author}{Merbouha, A.},
+  \bibinfo{author}{Ezzikouri, H.}, \& \bibinfo{author}{Erritali, M.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{A comparative study of decision tree ID3 and C4.5}}.
+\newblock {\it \bibinfo{journal}{International Journal of Advanced Computer
+  Science and Applications}\/},  {\it \bibinfo{volume}{4}\/},
+  \bibinfo{pages}{13--19}.
+%Type = Article
+\bibitem[{J{\"{a}}rvel{\"{a}} \& Hadwin(2013)}]{Jarvela2013}
+\bibinfo{author}{J{\"{a}}rvel{\"{a}}, S.}, \& \bibinfo{author}{Hadwin, A.~F.}
+  (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{{New Frontiers: Regulating Learning in CSCL}}.
+\newblock {\it \bibinfo{journal}{Educational Psychologist}\/},  {\it
+  \bibinfo{volume}{48}\/}, \bibinfo{pages}{25--39}.
+%Type = Incollection
+\bibitem[{J{\"{a}}rvenoja \& J{\"{a}}rvel{\"{a}}(2013)}]{Jarvenoja2013}
+\bibinfo{author}{J{\"{a}}rvenoja, H.}, \& \bibinfo{author}{J{\"{a}}rvel{\"{a}},
+  S.} (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{{Regulating Emotions Together for Motivated
+  Collaboration}}.
+\newblock In {\it \bibinfo{booktitle}{Affective Learning Together. Social and
+  Emotional Dimensions of Collaborative Learning.}\/}
+  chapter~\bibinfo{chapter}{8}. (pp. \bibinfo{pages}{162--181}).
+\newblock \bibinfo{address}{New York, United States}:
+  \bibinfo{publisher}{Routledge}.
+%Type = Article
+\bibitem[{Jehn(1997)}]{Jehn1997}
+\bibinfo{author}{Jehn, K.~A.} (\bibinfo{year}{1997}).
+\newblock \bibinfo{title}{{A Qualitative Analysis of Conflict Types and
+  Dimensions in Organizational Groups}}.
+\newblock {\it \bibinfo{journal}{Administrative Science Quarterly}\/},  {\it
+  \bibinfo{volume}{42}\/}, \bibinfo{pages}{530--557}.
+%Type = Article
+\bibitem[{Jehn \& Mannix(2001)}]{Jehn2001}
+\bibinfo{author}{Jehn, K.~A.}, \& \bibinfo{author}{Mannix, E.~A.}
+  (\bibinfo{year}{2001}).
+\newblock \bibinfo{title}{{The Dynamic Nature of Conflict: A Longitudinal Study
+  of Intragroup Conflict and Group Performance}}.
+\newblock {\it \bibinfo{journal}{Academy of Management Journal}\/},  {\it
+  \bibinfo{volume}{44}\/}, \bibinfo{pages}{238--251}.
+%Type = Article
+\bibitem[{Jiang et~al.(2013)Jiang, Zhang \& Tjosvold}]{Jiang2013}
+\bibinfo{author}{Jiang, J.~Y.}, \bibinfo{author}{Zhang, X.}, \&
+  \bibinfo{author}{Tjosvold, D.} (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{{Emotion Regulation as a Boundary Condition of the
+  Relationship Between Team Conflict and Performance: A Multi-level
+  Examination}}.
+\newblock {\it \bibinfo{journal}{Journal of Organizational Behavior}\/},  {\it
+  \bibinfo{volume}{34}\/}, \bibinfo{pages}{714--734}.
+%Type = Article
+\bibitem[{Keshavarz \& Abadeh(2017)}]{Keshavarz2017}
+\bibinfo{author}{Keshavarz, H.}, \& \bibinfo{author}{Abadeh, M.~S.}
+  (\bibinfo{year}{2017}).
+\newblock \bibinfo{title}{{ALGA: Adaptive lexicon learning using genetic
+  algorithm for sentiment analysis of microblogs}}.
+\newblock {\it \bibinfo{journal}{Knowledge-Based Systems}\/},  {\it
+  \bibinfo{volume}{122}\/}, \bibinfo{pages}{1--16}.
+%Type = Article
+\bibitem[{Kreijns et~al.(2003)Kreijns, Kirschner \& Jochems}]{Kreijns2003}
+\bibinfo{author}{Kreijns, K.}, \bibinfo{author}{Kirschner, P.~A.}, \&
+  \bibinfo{author}{Jochems, W.} (\bibinfo{year}{2003}).
+\newblock \bibinfo{title}{{Identifying the pitfalls for social interaction in
+  computer-supported collaborative learning environments : a review of the
+  research}}.
+\newblock {\it \bibinfo{journal}{Computers in Human Behavior}\/},  {\it
+  \bibinfo{volume}{19}\/}, \bibinfo{pages}{335--353}.
+%Type = Book
+\bibitem[{Krippendorff(2004)}]{Krippendorff2004}
+\bibinfo{author}{Krippendorff, K.} (\bibinfo{year}{2004}).
+\newblock {\it \bibinfo{title}{Content Analysis: An Introduction to its
+  Methodology}\/}.
+\newblock \bibinfo{address}{USA}: \bibinfo{publisher}{SAGE Publications}.
+%Type = Article
+\bibitem[{Kwon et~al.(2014)Kwon, Liu \& Johnson}]{Kwon2014}
+\bibinfo{author}{Kwon, K.}, \bibinfo{author}{Liu, Y.~H.}, \&
+  \bibinfo{author}{Johnson, L.~P.} (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{Group regulation and social-emotional interactions
+  observed in computer supported collaborative learning: Comparison between
+  good vs. poor collaborators}}.
+\newblock {\it \bibinfo{journal}{Computers and Education}\/},  {\it
+  \bibinfo{volume}{78}\/}, \bibinfo{pages}{185--200}.
+%Type = Article
+\bibitem[{Landwehr et~al.(2005)Landwehr, Hall \& Frank}]{Landwehr2005}
+\bibinfo{author}{Landwehr, N.}, \bibinfo{author}{Hall, M.}, \&
+  \bibinfo{author}{Frank, E.} (\bibinfo{year}{2005}).
+\newblock \bibinfo{title}{{Logistic model trees}}.
+\newblock {\it \bibinfo{journal}{Machine Learning}\/},  {\it
+  \bibinfo{volume}{59}\/}, \bibinfo{pages}{161--205}.
+%Type = Article
+\bibitem[{Lee et~al.(2015)Lee, Huh \& Reigeluth}]{Lee2015}
+\bibinfo{author}{Lee, D.}, \bibinfo{author}{Huh, Y.}, \&
+  \bibinfo{author}{Reigeluth, C.~M.} (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{{Collaboration, intragroup conflict, and social
+  skills in project-based learning}}.
+\newblock {\it \bibinfo{journal}{Instructional Science}\/},  {\it
+  \bibinfo{volume}{43}\/}, \bibinfo{pages}{561--590}.
+%Type = Inproceedings
+\bibitem[{Lescano \& Costaguta(2018)}]{Lescano2018}
+\bibinfo{author}{Lescano, G.}, \& \bibinfo{author}{Costaguta, R.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{COLLAB: Conflicts and Sentiments in chats}}.
+\newblock In {\it \bibinfo{booktitle}{XIX International Conference on Human
+  Computer Interaction (Interacci{\'{o}}n 2018)}\/}.
+%Type = Incollection
+\bibitem[{Lescano et~al.(2020)Lescano, Lara, Collazos \&
+  Costaguta}]{Lescano2020}
+\bibinfo{author}{Lescano, G.}, \bibinfo{author}{Lara, C.},
+  \bibinfo{author}{Collazos, C.}, \& \bibinfo{author}{Costaguta, R.}
+  (\bibinfo{year}{2020}).
+\newblock \bibinfo{title}{{A Technique for Conflict Detection in Collaborative
+  Learning Environment by Using Text Sentiment}}.
+\newblock In \bibinfo{editor}{L.~Mart{\'{i}}nez-Villase{\~{n}}or},
+  \bibinfo{editor}{O.~{Herrera Alc{\'{a}}ntara}}, \bibinfo{editor}{H.~Ponce},
+  \& \bibinfo{editor}{F.~Castro-Espinoza} (Eds.), {\it
+  \bibinfo{booktitle}{Advances in Computational Intelligence}\/} (pp.
+  \bibinfo{pages}{39--50}).
+\newblock \bibinfo{address}{Cham, Switzerland}: \bibinfo{publisher}{Springer
+  Nature Switzerland AG} volume \bibinfo{volume}{12469 (II)}.
+  (\bibinfo{edition}{Lncs (lnai} ed.).
+%Type = Incollection
+\bibitem[{Li et~al.(2015)Li, Gao, Li \& Fan}]{Li2015}
+\bibinfo{author}{Li, Y.}, \bibinfo{author}{Gao, J.}, \bibinfo{author}{Li, Q.},
+  \& \bibinfo{author}{Fan, W.} (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{{Ensemble Learning}}.
+\newblock In \bibinfo{editor}{C.~Aggarwal} (Ed.), {\it \bibinfo{booktitle}{Data
+  Classification. Algorithms and Applications}\/} (p. \bibinfo{pages}{483}).
+\newblock \bibinfo{address}{New York, USA}: \bibinfo{publisher}{Chapman {\&}
+  Hall/CRC}.
+%Type = Inproceedings
+\bibitem[{Luque \& P{\'{e}}rez(2018)}]{Luque2018}
+\bibinfo{author}{Luque, F.~M.}, \& \bibinfo{author}{P{\'{e}}rez, J.~M.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Atalaya at TASS 2018: Sentiment analysis with tweet
+  embeddings and data augmentation}}.
+\newblock In \bibinfo{editor}{E.~{Mart{\'{i}}nez C{\'{a}}mara}},
+  \bibinfo{editor}{Y.~Almeida-Cruz}, \bibinfo{editor}{M.~C. {D{\'{i}}az
+  Galiano}}, \bibinfo{editor}{S.~Est{\'{e}}vez-Velarde},
+  \bibinfo{editor}{M.~{\'{A}}. {Garc{\'{i}}a Cumbreras}},
+  \bibinfo{editor}{M.~{Garc{\'{i}}a Vega}},
+  \bibinfo{editor}{Y.~Guti{\'{e}}rrez}, \bibinfo{editor}{A.~{Montejo
+  R{\'{a}}ez}}, \bibinfo{editor}{A.~Montoyo}, \bibinfo{editor}{R.~Mu{\~{n}}oz},
+  \bibinfo{editor}{A.~Piad-Morffis}, \& \bibinfo{editor}{J.~{Villena
+  Rom{\'{a}}n}} (Eds.), {\it \bibinfo{booktitle}{Proceedings of TASS 2018:
+  Workshop on Sentiment Analysis at SEPLN}\/} (pp. \bibinfo{pages}{29--35}).
+\newblock \bibinfo{address}{Sevilla, Espa{\~{n}}a}:
+  \bibinfo{publisher}{CEUR-WS} volume \bibinfo{volume}{2172}.
+%Type = Inproceedings
+\bibitem[{Madhoushi et~al.(2015)Madhoushi, Hamdan \& Zainudin}]{Madhoushi2015}
+\bibinfo{author}{Madhoushi, Z.}, \bibinfo{author}{Hamdan, A.~R.}, \&
+  \bibinfo{author}{Zainudin, S.} (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{{Sentiment analysis techniques in recent works}}.
+\newblock In {\it \bibinfo{booktitle}{Science and Information Conference, SAI
+  2015}\/} (pp. \bibinfo{pages}{288--291}).
+\newblock \DOIprefix\doi{10.1109/SAI.2015.7237157}.
+%Type = Inproceedings
+\bibitem[{{Mart{\'{i}}nez C{\'{a}}mara} et~al.(2018){Mart{\'{i}}nez
+  C{\'{a}}mara}, Almeida-Cruz, {D{\'{i}}az Galiano}, Est{\'{e}}vez-Velarde,
+  {Garc{\'{i}}a Cumbreras}, {Garc{\'{i}}a Vega}, Guti{\'{e}}rrez, {Montejo
+  R{\'{a}}ez}, Montoyo, Mu{\~{n}}oz, Piad-Morffis \& {Villena
+  Rom{\'{a}}n}}]{MartinezCamara2018}
+\bibinfo{author}{{Mart{\'{i}}nez C{\'{a}}mara}, E.},
+  \bibinfo{author}{Almeida-Cruz, Y.}, \bibinfo{author}{{D{\'{i}}az Galiano},
+  M.~C.}, \bibinfo{author}{Est{\'{e}}vez-Velarde, S.},
+  \bibinfo{author}{{Garc{\'{i}}a Cumbreras}, M.~{\'{A}}.},
+  \bibinfo{author}{{Garc{\'{i}}a Vega}, M.}, \bibinfo{author}{Guti{\'{e}}rrez,
+  Y.}, \bibinfo{author}{{Montejo R{\'{a}}ez}, A.}, \bibinfo{author}{Montoyo,
+  A.}, \bibinfo{author}{Mu{\~{n}}oz, R.}, \bibinfo{author}{Piad-Morffis, A.},
+  \& \bibinfo{author}{{Villena Rom{\'{a}}n}, J.} (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Overview of TASS 2018: Opinions, health and
+  emotions}}.
+\newblock In \bibinfo{editor}{E.~{Mart{\'{i}}nez C{\'{a}}mara}},
+  \bibinfo{editor}{Y.~Almeida-Cruz}, \bibinfo{editor}{M.~C. {D{\'{i}}az
+  Galiano}}, \bibinfo{editor}{S.~Est{\'{e}}vez-Velarde},
+  \bibinfo{editor}{M.~{\'{A}}. {Garc{\'{i}}a Cumbreras}},
+  \bibinfo{editor}{M.~{Garc{\'{i}}a Vega}},
+  \bibinfo{editor}{Y.~Guti{\'{e}}rrez}, \bibinfo{editor}{A.~{Montejo
+  R{\'{a}}ez}}, \bibinfo{editor}{A.~Montoyo}, \&
+  \bibinfo{editor}{R.~Mu{\~{n}}oz} (Eds.), {\it \bibinfo{booktitle}{Proceedings
+  of TASS 2018: Workshop on Semantic Analysis at SEPLN (TASS 2018)}\/}.
+\newblock \bibinfo{address}{Sevilla, Espa{\~{n}}a}:
+  \bibinfo{publisher}{CEUR-WS}.
+%Type = Article
+\bibitem[{Millar et~al.(1984)Millar, Rogers \& Bavelas}]{Millar1984}
+\bibinfo{author}{Millar, F.~E.}, \bibinfo{author}{Rogers, L.~E.}, \&
+  \bibinfo{author}{Bavelas, J.~B.} (\bibinfo{year}{1984}).
+\newblock \bibinfo{title}{{Identifying patterns of verbal conflict in
+  interpersonal dynamics}}.
+\newblock {\it \bibinfo{journal}{Western Journal of Speech Communication}\/},
+  {\it \bibinfo{volume}{48}\/}, \bibinfo{pages}{231--246}.
+%Type = Article
+\bibitem[{Mohamed et~al.(2012)Mohamed, Salleh \& Omar}]{Mohamed2012}
+\bibinfo{author}{Mohamed, W. N. H.~W.}, \bibinfo{author}{Salleh, M. N.~M.}, \&
+  \bibinfo{author}{Omar, A.~H.} (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{{A comparative study of Reduced Error Pruning method
+  in decision tree algorithms}}.
+\newblock {\it \bibinfo{journal}{Proceedings - 2012 IEEE International
+  Conference on Control System, Computing and Engineering, ICCSCE 2012}\/},
+  (pp. \bibinfo{pages}{392--397}).
+%Type = Article
+\bibitem[{Monteserin et~al.(2010)Monteserin, Schiaffino \&
+  Amandi}]{Monteserin2010}
+\bibinfo{author}{Monteserin, A.}, \bibinfo{author}{Schiaffino, S.}, \&
+  \bibinfo{author}{Amandi, A.} (\bibinfo{year}{2010}).
+\newblock \bibinfo{title}{{Assisting students with argumentation plans when
+  solving problems in CSCL}}.
+\newblock {\it \bibinfo{journal}{Computers and Education}\/},  {\it
+  \bibinfo{volume}{54}\/}, \bibinfo{pages}{416--426}.
+%Type = Article
+\bibitem[{Nam(2014)}]{Nam2014}
+\bibinfo{author}{Nam, C.~W.} (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{The effects of trust and constructive controversy on
+  student achievement and attitude in online cooperative learning
+  environments}}.
+\newblock {\it \bibinfo{journal}{Computers in Human Behavior}\/},  {\it
+  \bibinfo{volume}{37}\/}, \bibinfo{pages}{237--248}.
+%Type = Article
+\bibitem[{N{\"{a}}ykki et~al.(2014)N{\"{a}}ykki, J{\"{a}}rvel{\"{a}}, Kirschner
+  \& J{\"{a}}rvenoja}]{Naykki2014}
+\bibinfo{author}{N{\"{a}}ykki, P.}, \bibinfo{author}{J{\"{a}}rvel{\"{a}}, S.},
+  \bibinfo{author}{Kirschner, P.~A.}, \& \bibinfo{author}{J{\"{a}}rvenoja, H.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{Socio-emotional conflict in collaborative learning-A
+  process-oriented case study in a higher education context}}.
+\newblock {\it \bibinfo{journal}{International Journal of Educational
+  Research}\/},  {\it \bibinfo{volume}{68}\/}, \bibinfo{pages}{1--14}.
+%Type = Article
+\bibitem[{Onrubia \& Engel(2012)}]{onrubia2012role}
+\bibinfo{author}{Onrubia, J.}, \& \bibinfo{author}{Engel, A.}
+  (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{The role of teacher assistance on the effects of a
+  macro-script in collaborative writing tasks}.
+\newblock {\it \bibinfo{journal}{International Journal of Computer-Supported
+  Collaborative Learning}\/},  {\it \bibinfo{volume}{7}\/},
+  \bibinfo{pages}{161--186}.
+%Type = Incollection
+\bibitem[{Orvis \& Lassiter(2006)}]{orvis2006computer}
+\bibinfo{author}{Orvis, K.~L.}, \& \bibinfo{author}{Lassiter, A.~L.}
+  (\bibinfo{year}{2006}).
+\newblock \bibinfo{title}{Computer-supported collaborative learning: The role
+  of the instuctor}.
+\newblock In {\it \bibinfo{booktitle}{Teaching and learning with virtual
+  teams}\/} (pp. \bibinfo{pages}{158--179}).
+\newblock \bibinfo{publisher}{IGI Global}.
+%Type = Book
+\bibitem[{Pekrun(2014)}]{Pekrun2014}
+\bibinfo{author}{Pekrun, R.} (\bibinfo{year}{2014}).
+\newblock {\it \bibinfo{title}{Emotions and Learning. Practices Series-24}\/}.
+\newblock \bibinfo{publisher}{International Academy of Education {\&}
+  International Bureau of Education}.
+%Type = Article
+\bibitem[{Pekrun et~al.(2011)Pekrun, Goetz, Frenzel, Barchfeld \&
+  Perry}]{Pekrun2011}
+\bibinfo{author}{Pekrun, R.}, \bibinfo{author}{Goetz, T.},
+  \bibinfo{author}{Frenzel, A.~C.}, \bibinfo{author}{Barchfeld, P.}, \&
+  \bibinfo{author}{Perry, R.~P.} (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{{Measuring emotions in students' learning and
+  performance: The Achievement Emotions Questionnaire (AEQ)}}.
+\newblock {\it \bibinfo{journal}{Contemporary Educational Psychology}\/},  {\it
+  \bibinfo{volume}{36}\/}, \bibinfo{pages}{36--48}.
+%Type = Article
+\bibitem[{Pekrun et~al.(2002)Pekrun, Goetz, Titz \& Perry}]{Pekrun2002}
+\bibinfo{author}{Pekrun, R.}, \bibinfo{author}{Goetz, T.},
+  \bibinfo{author}{Titz, W.}, \& \bibinfo{author}{Perry, R.}
+  (\bibinfo{year}{2002}).
+\newblock \bibinfo{title}{{Academic emotions in students' self-regulated
+  learning and achievement: a program of qualitative and quantitative
+  research}}.
+\newblock {\it \bibinfo{journal}{Educational Psychologist}\/},  {\it
+  \bibinfo{volume}{37}\/}, \bibinfo{pages}{91--105}.
+%Type = Article
+\bibitem[{Poria et~al.(2014)Poria, Cambria, Winterstein \& Huang}]{Poria2014}
+\bibinfo{author}{Poria, S.}, \bibinfo{author}{Cambria, E.},
+  \bibinfo{author}{Winterstein, G.}, \& \bibinfo{author}{Huang, G.~B.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{Sentic patterns: Dependency-based rules for
+  concept-level sentiment analysis}}.
+\newblock {\it \bibinfo{journal}{Knowledge-Based Systems}\/},  {\it
+  \bibinfo{volume}{69}\/}, \bibinfo{pages}{45--63}.
+%Type = Inproceedings
+\bibitem[{Rao et~al.(1995)Rao, Georgeff et~al.}]{rao1995bdi}
+\bibinfo{author}{Rao, A.~S.}, \bibinfo{author}{Georgeff, M.~P.} et~al.
+  (\bibinfo{year}{1995}).
+\newblock \bibinfo{title}{Bdi agents: from theory to practice.}
+\newblock In {\it \bibinfo{booktitle}{Icmas}\/} (pp.
+  \bibinfo{pages}{312--319}).
+\newblock volume~\bibinfo{volume}{95}.
+%Type = Phdthesis
+\bibitem[{Rapisarda(2002)}]{Rapisarda2002}
+\bibinfo{author}{Rapisarda, B.~A.} (\bibinfo{year}{2002}).
+\newblock {\it \bibinfo{title}{{The impact of emotional intelligence on work
+  team cohesiveness and performance}}\/}.
+\newblock Ph.D. thesis Case Western Reserve University.
+%Type = Article
+\bibitem[{Reis et~al.(2018)Reis, Isotani, Rodriguez, Lyra, Jaques \&
+  Bittencourt}]{Reis2018}
+\bibinfo{author}{Reis, R. C.~D.}, \bibinfo{author}{Isotani, S.},
+  \bibinfo{author}{Rodriguez, C.~L.}, \bibinfo{author}{Lyra, K.~T.},
+  \bibinfo{author}{Jaques, P.~A.}, \& \bibinfo{author}{Bittencourt, I.~I.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{{Affective states in computer-supported collaborative
+  learning: Studying the past to drive the future}}.
+\newblock {\it \bibinfo{journal}{Computers and Education}\/},  {\it
+  \bibinfo{volume}{120}\/}, \bibinfo{pages}{29--50}.
+  \DOIprefix\doi{10.1016/j.compedu.2018.01.015}.
+%Type = Article
+\bibitem[{Rogat \& Adams-Wiggins(2015)}]{Rogat2015}
+\bibinfo{author}{Rogat, T.~K.}, \& \bibinfo{author}{Adams-Wiggins, K.~R.}
+  (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{{Interrelation between regulatory and socioemotional
+  processes within collaborative groups characterized by facilitative and
+  directive other-regulation}}.
+\newblock {\it \bibinfo{journal}{Computers in Human Behavior}\/},  {\it
+  \bibinfo{volume}{52}\/}, \bibinfo{pages}{589--600}. \URLprefix
+  \url{http://dx.doiXX.org/10.1016/j.chb.2015.01.026}.
+%Type = Inproceedings
+\bibitem[{Sanglerdsinlapachai et~al.(2014)Sanglerdsinlapachai, Plangprasopchok
+  \& Nantajeewarawat}]{Sanglerdsinlapachai2014}
+\bibinfo{author}{Sanglerdsinlapachai, N.}, \bibinfo{author}{Plangprasopchok,
+  A.}, \& \bibinfo{author}{Nantajeewarawat, E.} (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{Exploiting rhetorical structures to improve
+  feature-based sentiment analysis}}.
+\newblock In {\it \bibinfo{booktitle}{International Computer Science and
+  Engineering Conference, ICSEC 2014}\/} (pp. \bibinfo{pages}{180--185}).
+%Type = Article
+\bibitem[{Schwarz \& Asterhan(2011)}]{schwarz2011moderation}
+\bibinfo{author}{Schwarz, B.~B.}, \& \bibinfo{author}{Asterhan, C.~S.}
+  (\bibinfo{year}{2011}).
+\newblock \bibinfo{title}{E-moderation of synchronous discussions in
+  educational settings: A nascent practice}.
+\newblock {\it \bibinfo{journal}{Journal of the Learning Sciences}\/},  {\it
+  \bibinfo{volume}{20}\/}, \bibinfo{pages}{395--442}.
+%Type = Article
+\bibitem[{Slof et~al.(2016)Slof, Nijdam \& Janssen}]{Slof2016}
+\bibinfo{author}{Slof, B.}, \bibinfo{author}{Nijdam, D.}, \&
+  \bibinfo{author}{Janssen, J.} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{{Do interpersonal skills and interpersonal
+  perceptions predict student learning in CSCL-environments?}}
+\newblock {\it \bibinfo{journal}{Computers and Education}\/},  {\it
+  \bibinfo{volume}{97}\/}, \bibinfo{pages}{49--60}.
+%Type = Article
+\bibitem[{Soller(2001)}]{soller2001supporting}
+\bibinfo{author}{Soller, A.} (\bibinfo{year}{2001}).
+\newblock \bibinfo{title}{Supporting social interaction in an intelligent
+  collaborative learning system}.
+\newblock {\it \bibinfo{journal}{International Journal of Artificial
+  Intelligence in Education (IJAIED)}\/},  {\it \bibinfo{volume}{12}\/},
+  \bibinfo{pages}{40--62}.
+%Type = Article
+\bibitem[{Stahl \& Hakkarainen(2020)}]{stahl2020theories}
+\bibinfo{author}{Stahl, G.}, \& \bibinfo{author}{Hakkarainen, K.}
+  (\bibinfo{year}{2020}).
+\newblock \bibinfo{title}{Theories of {CSCL}}.
+\newblock {\it \bibinfo{journal}{International handbook of computer-supported
+  collaborative learning. New York, NY: Springer}\/}, .
+%Type = Incollection
+\bibitem[{Tchounikine et~al.(2010)Tchounikine, Rummel \&
+  McLaren}]{tchounikine2010computer}
+\bibinfo{author}{Tchounikine, P.}, \bibinfo{author}{Rummel, N.}, \&
+  \bibinfo{author}{McLaren, B.~M.} (\bibinfo{year}{2010}).
+\newblock \bibinfo{title}{Computer supported collaborative learning and
+  intelligent tutoring systems}.
+\newblock In {\it \bibinfo{booktitle}{Advances in intelligent tutoring
+  systems}\/} (pp. \bibinfo{pages}{447--463}).
+\newblock \bibinfo{publisher}{Springer}.
+%Type = Article
+\bibitem[{Tedesco(2003)}]{Tedesco2003}
+\bibinfo{author}{Tedesco, P.~A.} (\bibinfo{year}{2003}).
+\newblock \bibinfo{title}{{MArCo: Building an artificial conflict mediator to
+  support group planning interactions}}.
+\newblock {\it \bibinfo{journal}{International Journal of Artificial
+  Intelligence in Education}\/},  {\it \bibinfo{volume}{13}\/},
+  \bibinfo{pages}{117--155}.
+%Type = Incollection
+\bibitem[{Verbiest et~al.(2015)Verbiest, Vermeulen \& Teredesai}]{Verbiest2015}
+\bibinfo{author}{Verbiest, N.}, \bibinfo{author}{Vermeulen, K.}, \&
+  \bibinfo{author}{Teredesai, A.} (\bibinfo{year}{2015}).
+\newblock \bibinfo{title}{{Evaluation of Classification Methods}}.
+\newblock In \bibinfo{editor}{C.~Aggarwal} (Ed.), {\it \bibinfo{booktitle}{Data
+  Classification. Algorithms and Applications}\/} (pp.
+  \bibinfo{pages}{633--656}).
+\newblock \bibinfo{address}{New York, USA}: \bibinfo{publisher}{Chapman {\&}
+  Hall/CRC}.
+%Type = Article
+\bibitem[{Wall \& Galanes(1986)}]{Wall1986}
+\bibinfo{author}{Wall, V.~D.}, \& \bibinfo{author}{Galanes, G.~J.}
+  (\bibinfo{year}{1986}).
+\newblock \bibinfo{title}{{The SYMLOG dimensions and small group conflict}}.
+\newblock {\it \bibinfo{journal}{Central States Speech Journal}\/},  {\it
+  \bibinfo{volume}{37}\/}, \bibinfo{pages}{61--78}.
+%Type = Inproceedings
+\bibitem[{Wang et~al.(2016)Wang, Tong, Ruan \& Li}]{Wang2016b}
+\bibinfo{author}{Wang, Z.}, \bibinfo{author}{Tong, V.~J.},
+  \bibinfo{author}{Ruan, P.}, \& \bibinfo{author}{Li, F.}
+  (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{{Lexicon Knowledge Extraction Algorithm with
+  Sentiment Polarity Calculation}}.
+\newblock In {\it \bibinfo{booktitle}{IEEE 16th International Conference on
+  Data Mining Workshops}\/} (pp. \bibinfo{pages}{978--983}).
+\newblock \DOIprefix\doi{10.1109/ICDMW.2016.37}.
+%Type = Article
+\bibitem[{Zachary(1977)}]{Zachary1977}
+\bibinfo{author}{Zachary, W.~W.} (\bibinfo{year}{1977}).
+\newblock \bibinfo{title}{{An Information Flow Model for Conflict and Fission
+  in Small Groups}}.
+\newblock {\it \bibinfo{journal}{Journal of Anthropological Research}\/},  {\it
+  \bibinfo{volume}{33}\/}, \bibinfo{pages}{452--473}.
+%Type = Inproceedings
+\bibitem[{Zakaria et~al.(2009)Zakaria, Cur{\'{e}} \&
+  Sma{\"{i}}li}]{Zakaria2009}
+\bibinfo{author}{Zakaria, C.}, \bibinfo{author}{Cur{\'{e}}, O.}, \&
+  \bibinfo{author}{Sma{\"{i}}li, K.} (\bibinfo{year}{2009}).
+\newblock \bibinfo{title}{{Conflict Ontology Enrichment Based on Triggers}}.
+\newblock In {\it \bibinfo{booktitle}{The 2nd International workshop on
+  Ontologies and Information Systems for the Semanti}\/}.
+\newblock \bibinfo{address}{Napa Valley, California, United States}.
+%Type = Article
+\bibitem[{Zheng \& Huang(2016)}]{Zheng2016}
+\bibinfo{author}{Zheng, L.}, \& \bibinfo{author}{Huang, R.}
+  (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{{The effects of sentiments and co-regulation on group
+  performance in computer supported collaborative learning}}.
+\newblock {\it \bibinfo{journal}{Internet and Higher Education}\/},  {\it
+  \bibinfo{volume}{28}\/}, \bibinfo{pages}{59--67}.
+
+\end{thebibliography}

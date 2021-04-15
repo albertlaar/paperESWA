@@ -1,0 +1,50 @@
+\documentclass{bmcart}
+\usepackage{pgffor} 
+\usepackage{graphicx}
+\usepackage{tabularx}
+\definecolor{xgreen}{rgb}{0.48,0.84,0.57}
+\usepackage{bchart}
+
+\begin{document}
+\centering
+\begin{bchart}[step=10,max=40,scale=0.6,width=15cm,unit=\%]
+        %\bcbar[text=Neutral,value= (75.13\%)]{75.13}
+        \bcbar[color=xgreen,value=Sympathy (38\%)]{38}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Like (30\%)]{30}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Anger (8\%)]{8}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Confusion (6\%)]{6}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Dislike (4\%)]{4}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Contempt (3\%)]{3}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Frustration (3\%)]{3}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Love (2\%)]{2}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Shame (1\%)]{1}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Disappointment (1\%)]{1}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Surprise (1\%)]{1}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=anxiety (1\%)]{1}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Compassion (0\%) ]{0}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Enjoyment (0\%)]{0}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Hope (0\%)]{0}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Delight (0\%)]{0}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Pride (0\%)]{0}
+        \bcskip{5pt}
+        \bcbar[color=xgreen,value=Social-Anxiety (0\%)]{0}
+        \end{bchart}
+        
+        
+\end{document}

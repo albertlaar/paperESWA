@@ -1,0 +1,203 @@
+\relax 
+\let\TR@TitleReference\@firstoftwo
+\bibstyle{model5-names}
+\emailauthor{gelescano@unse.edu.ar}{Germ\'an Lescano}
+\emailauthor{jtj@cinvestav.mx}{Jose Torres-Jimenez}
+\emailauthor{costaguta@unse.edu.ar}{Rosanna Costaguta}
+\emailauthor{amandi@exa.unicen.edu.ar}{Anal\'ia Amandi}
+\emailauthor{carlos.lara@cimat.mx}{Carlos Lara\corref {cor1}}
+\Newlabel{santiago}{a}
+\Newlabel{cinves}{b}
+\Newlabel{conicet}{c}
+\Newlabel{cimat}{d}
+\Newlabel{cor1}{1}
+\citation{gokhale1995collaborative}
+\citation{soller2001supporting}
+\citation{stahl2020theories}
+\citation{soller2001supporting}
+\citation{onrubia2012role,schwarz2011moderation,tchounikine2010computer}
+\citation{orvis2006computer}
+\citation{Jarvenoja2013}
+\citation{Naykki2014}
+\citation{Ayoko2008}
+\citation{Dreu2003,Jehn1997,Jiang2013,Lee2015}
+\citation{Jiang2013,Kreijns2003,Kwon2014,Lee2015,Rapisarda2002,Slof2016}
+\citation{Feidakis2014}
+\citation{Nam2014}
+\citation{Rogat2015,Zheng2016}
+\citation{Lee2015,Slof2016}
+\citation{Buchs2004}
+\citation{Buchs2004}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{2}{}\protected@file@percent }
+\newlabel{intro}{{\TR@TitleReference {1}{Introduction}}{2}}
+\citation{Jehn1997}
+\citation{Ayoko2008,Garcia-Prieto2007,Lee2015}
+\citation{Jiang2013}
+\citation{Ayoko2008}
+\citation{Dreu2003,Jehn1997,Lee2015,Garcia-Prieto2007}
+\citation{Ayoko2008,Garcia-Prieto2007,Jehn2001}
+\citation{Naykki2014,Dreu2003,Jehn1997,Lee2015}
+\citation{Dreu2003}
+\citation{Dreu2003,Jehn1997,Jiang2013,Lee2015}
+\citation{Barsade2009}
+\citation{Jarvela2013}
+\citation{Capdeferro2012}
+\citation{Reis2018}
+\citation{Pekrun2002}
+\citation{Coppin2013}
+\citation{Pekrun2011}
+\citation{Appel2016,Keshavarz2017,Sanglerdsinlapachai2014}
+\citation{Poria2014}
+\citation{Giatsoglou2017}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Background}{3}{}\protected@file@percent }
+\newlabel{backgorund}{{\TR@TitleReference {2}{Background}}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Conflicts in groups}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Emotions in collaborative learning}{3}{}\protected@file@percent }
+\citation{Keshavarz2017}
+\citation{Sanglerdsinlapachai2014}
+\citation{Madhoushi2015,Wang2016b}
+\citation{Millar1984}
+\citation{Bales1950}
+\citation{Bales1950}
+\citation{Bales1979}
+\citation{Wall1986}
+\citation{Lescano2020,Wall1986,Zachary1977,Zakaria2009}
+\citation{Zakaria2009}
+\citation{Zachary1977}
+\citation{Lescano2020}
+\citation{Tedesco2003}
+\citation{Monteserin2010}
+\citation{rao1995bdi}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Sentiment Analysis in Text}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Related Work}{4}{}\protected@file@percent }
+\newlabel{related}{{\TR@TitleReference {3}{Related Work}}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}An Algorithm to Detect Conflicts in Collaborative Groups}{4}{}\protected@file@percent }
+\newlabel{detecting}{{\TR@TitleReference {4}{An Algorithm to Detect Conflicts in Collaborative Groups}}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Preliminaries}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Features Extraction}{5}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces \textbf  {Feature extraction}.\tmspace  +\thickmuskip {.2777em} (a) Messages $M$ of a collaborative group $U = \set  {u_1,u_2,u_3}$, (b) PMF on sentiment classes obtained by the automatic classifier $C_T$ for each message, (c) interaction list for every combination of participants, (d) the set of atomic interactions $\textbf  {A}_m = \set  {A_1, \ldots  , A_4}$, (e) probability table of changes in each atomic interaction, and (f) features of $M$ ($f(M)$).}}{6}{}\protected@file@percent }
+\newlabel{fig:features}{{\TR@TitleReference {1}{\textbf  {Feature extraction}.\tmspace  +\thickmuskip {.2777em} (a) Messages $M$ of a collaborative group $U = \set  {u_1,u_2,u_3}$, (b) PMF on sentiment classes obtained by the automatic classifier $C_T$ for each message, (c) interaction list for every combination of participants, (d) the set of atomic interactions $\textbf  {A}_m = \set  {A_1, \ldots  , A_4}$, (e) probability table of changes in each atomic interaction, and (f) features of $M$ ($f(M)$).}}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Bootstrap aggregating}{6}{}\protected@file@percent }
+\citation{Li2015}
+\citation{Li2015}
+\citation{Li2015}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces \textbf  {The windows $M_0, \ldots  , M_w$ are defined from the collaborative dataset. Then, a set of features $x_i = f(M_i)$ is estimated for each window $M_i$ and associated to the boolean tag $y_i$ (presence/absence of conflict). Then, these samples are split into training and testing sets. The bagging approach trains each model in the ensemble using a randomly drawn subset of the training set. The ensemble classifier combines several base models to improve the prediction}.\tmspace  +\thickmuskip {.2777em} }}{7}{}\protected@file@percent }
+\newlabel{fig:bagging}{{\TR@TitleReference {2}{\textbf  {The windows $M_0, \ldots  , M_w$ are defined from the collaborative dataset. Then, a set of features $x_i = f(M_i)$ is estimated for each window $M_i$ and associated to the boolean tag $y_i$ (presence/absence of conflict). Then, these samples are split into training and testing sets. The bagging approach trains each model in the ensemble using a randomly drawn subset of the training set. The ensemble classifier combines several base models to improve the prediction}.\tmspace  +\thickmuskip {.2777em} }}{7}}
+\citation{Lescano2018}
+\citation{Krippendorff2004}
+\citation{Pekrun2014}
+\citation{cambria2010senticnet}
+\citation{Luque2018,MartinezCamara2018}
+\citation{GUPTA2000}
+\citation{Hssina2014}
+\citation{Landwehr2005}
+\citation{Mohamed2012}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Method}{8}{}\protected@file@percent }
+\newlabel{sec:methodology}{{\TR@TitleReference {5}{Method}}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Participants}{8}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Dataset}{8}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Valence estimation}{8}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Experiments}{8}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{\textbf  {Experiment 1}}{8}{}\protected@file@percent }
+\citation{Breiman2001}
+\citation{Verbiest2015}
+\citation{Verbiest2015}
+\citation{Verbiest2015}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Pekrun's emotions and their valence.}}{9}{}\protected@file@percent }
+\newlabel{table-mapping}{{\TR@TitleReference {1}{Pekrun's emotions and their valence.}}{9}}
+\@writefile{toc}{\contentsline {paragraph}{\textbf  {Experiment 2}}{9}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.5}Metrics}{9}{}\protected@file@percent }
+\newlabel{ecuacion-precision}{{\TR@TitleReference {7}{Metrics}}{9}}
+\newlabel{ecuacion-recall}{{\TR@TitleReference {8}{Metrics}}{9}}
+\newlabel{ecuacion-fmeasure}{{\TR@TitleReference {9}{Metrics}}{9}}
+\citation{Cohen.J.1988}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Distribution of non-neutral emotions in the text messages in the colab dataset.}}{10}{}\protected@file@percent }
+\newlabel{fig:emotionDist}{{\TR@TitleReference {3}{Distribution of non-neutral emotions in the text messages in the colab dataset.}}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.6}Statistical Analysis}{10}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6}Results}{10}{}\protected@file@percent }
+\newlabel{sec:results}{{\TR@TitleReference {6}{Results}}{10}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Performance of the `pySentimiento' classifier on our dataset of chats interactions.}}{10}{}\protected@file@percent }
+\newlabel{tableSentimentClassifier}{{\TR@TitleReference {2}{Performance of the `pySentimiento' classifier on our dataset of chats interactions.}}{10}}
+\citation{Jiang2013,Lee2015,Zakaria2009,Lescano2020}
+\citation{Heerdink2013,Garcia-prieto2003}
+\citation{Wall1986}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Summary of positive, negative and neutral messages in conflicting/non-conflicting situations.}}{11}{}\protected@file@percent }
+\newlabel{table2Aux}{{\TR@TitleReference {3}{Summary of positive, negative and neutral messages in conflicting/non-conflicting situations.}}{11}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Summary of valence change of any two consecutive interactions in conflicting/non conflicting situations.}}{11}{}\protected@file@percent }
+\newlabel{table2}{{\TR@TitleReference {4}{Summary of valence change of any two consecutive interactions in conflicting/non conflicting situations.}}{11}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Results obtained for the evaluation of conflict recognition by the bagging model built with different base classifiers and using manual estimation of valence. Number of iterations set up 10.}}{11}{}\protected@file@percent }
+\newlabel{tableBaseClassifiers}{{\TR@TitleReference {5}{Results obtained for the evaluation of conflict recognition by the bagging model built with different base classifiers and using manual estimation of valence. Number of iterations set up 10.}}{11}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Results obtained for the evaluation of conflict recognition by the bagging model built with different base classifiers and using an automatic classifier to measure the valence. Number of iterations set up 10.}}{11}{}\protected@file@percent }
+\newlabel{table-experiment2}{{\TR@TitleReference {6}{Results obtained for the evaluation of conflict recognition by the bagging model built with different base classifiers and using an automatic classifier to measure the valence. Number of iterations set up 10.}}{11}}
+\citation{Millar1984}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Discussion}{12}{}\protected@file@percent }
+\newlabel{disussion}{{\TR@TitleReference {7}{Discussion}}{12}}
+\@writefile{toc}{\contentsline {section}{\numberline {8}Conclusions and future work}{12}{}\protected@file@percent }
+\newlabel{conclusion}{{\TR@TitleReference {8}{Conclusions and future work}}{12}}
+\bibdata{bib}
+\bibcite{Appel2016}{{1}{2016}{{Appel et~al.}}{{Appel, Chiclana, Carter \& Fujita}}}
+\bibcite{Ayoko2008}{{2}{2008}{{Ayoko et~al.}}{{Ayoko, Callan \& H{\"{a}}rtel}}}
+\bibcite{Bales1950}{{3}{1950}{{Bales}}{{}}}
+\bibcite{Bales1979}{{4}{1979}{{Bales \& Steven}}{{}}}
+\bibcite{Barsade2009}{{5}{2009}{{Barsade}}{{}}}
+\bibcite{Breiman2001}{{6}{2001}{{Breiman}}{{}}}
+\bibcite{Buchs2004}{{7}{2004}{{Buchs et~al.}}{{Buchs, Butera, Mugny \& Darnon}}}
+\bibcite{cambria2010senticnet}{{8}{2010}{{Cambria et~al.}}{{Cambria, Speer, Havasi \& Hussain}}}
+\bibcite{Capdeferro2012}{{9}{2012}{{Capdeferro \& Romero}}{{}}}
+\bibcite{Cohen.J.1988}{{10}{1988}{{Cohen. J.}}{{}}}
+\bibcite{Coppin2013}{{11}{2013}{{Coppin \& Sander}}{{}}}
+\bibcite{Dreu2003}{{12}{2003}{{Dreu \& Weingart}}{{}}}
+\bibcite{Feidakis2014}{{13}{2014}{{Feidakis et~al.}}{{Feidakis, Daradoumis, Caball{\'{e}} \& Conesa}}}
+\bibcite{Garcia-prieto2003}{{14}{2003}{{Garcia-Prieto et~al.}}{{Garcia-Prieto, Bellard \& Schneider}}}
+\bibcite{Garcia-Prieto2007}{{15}{2007}{{Garcia-Prieto et~al.}}{{Garcia-Prieto, Mackie, Tran \& Smith}}}
+\bibcite{Giatsoglou2017}{{16}{2017}{{Giatsoglou et~al.}}{{Giatsoglou, Vozalis, Diamantaras, Vakali, Sarigiannidis \& Chatzisavvas}}}
+\bibcite{gokhale1995collaborative}{{17}{1995}{{Gokhale}}{{}}}
+\bibcite{GUPTA2000}{{18}{2000}{{Gupta \& Sinha}}{{}}}
+\bibcite{Heerdink2013}{{19}{2013}{{Heerdink et~al.}}{{Heerdink, Kleef, Homan \& Fischer}}}
+\bibcite{Hssina2014}{{20}{2014}{{Hssina et~al.}}{{Hssina, Merbouha, Ezzikouri \& Erritali}}}
+\bibcite{Jarvela2013}{{21}{2013}{{J{\"{a}}rvel{\"{a}} \& Hadwin}}{{}}}
+\bibcite{Jarvenoja2013}{{22}{2013}{{J{\"{a}}rvenoja \& J{\"{a}}rvel{\"{a}}}}{{}}}
+\bibcite{Jehn1997}{{23}{1997}{{Jehn}}{{}}}
+\bibcite{Jehn2001}{{24}{2001}{{Jehn \& Mannix}}{{}}}
+\bibcite{Jiang2013}{{25}{2013}{{Jiang et~al.}}{{Jiang, Zhang \& Tjosvold}}}
+\bibcite{Keshavarz2017}{{26}{2017}{{Keshavarz \& Abadeh}}{{}}}
+\bibcite{Kreijns2003}{{27}{2003}{{Kreijns et~al.}}{{Kreijns, Kirschner \& Jochems}}}
+\bibcite{Krippendorff2004}{{28}{2004}{{Krippendorff}}{{}}}
+\bibcite{Kwon2014}{{29}{2014}{{Kwon et~al.}}{{Kwon, Liu \& Johnson}}}
+\bibcite{Landwehr2005}{{30}{2005}{{Landwehr et~al.}}{{Landwehr, Hall \& Frank}}}
+\bibcite{Lee2015}{{31}{2015}{{Lee et~al.}}{{Lee, Huh \& Reigeluth}}}
+\bibcite{Lescano2018}{{32}{2018}{{Lescano \& Costaguta}}{{}}}
+\bibcite{Lescano2020}{{33}{2020}{{Lescano et~al.}}{{Lescano, Lara, Collazos \& Costaguta}}}
+\bibcite{Li2015}{{34}{2015}{{Li et~al.}}{{Li, Gao, Li \& Fan}}}
+\bibcite{Luque2018}{{35}{2018}{{Luque \& P{\'{e}}rez}}{{}}}
+\bibcite{Madhoushi2015}{{36}{2015}{{Madhoushi et~al.}}{{Madhoushi, Hamdan \& Zainudin}}}
+\bibcite{MartinezCamara2018}{{37}{2018}{{{Mart{\'{i}}nez C{\'{a}}mara} et~al.}}{{{Mart{\'{i}}nez C{\'{a}}mara}, Almeida-Cruz, {D{\'{i}}az Galiano}, Est{\'{e}}vez-Velarde, {Garc{\'{i}}a Cumbreras}, {Garc{\'{i}}a Vega}, Guti{\'{e}}rrez, {Montejo R{\'{a}}ez}, Montoyo, Mu{\~{n}}oz, Piad-Morffis \& {Villena Rom{\'{a}}n}}}}
+\bibcite{Millar1984}{{38}{1984}{{Millar et~al.}}{{Millar, Rogers \& Bavelas}}}
+\bibcite{Mohamed2012}{{39}{2012}{{Mohamed et~al.}}{{Mohamed, Salleh \& Omar}}}
+\bibcite{Monteserin2010}{{40}{2010}{{Monteserin et~al.}}{{Monteserin, Schiaffino \& Amandi}}}
+\bibcite{Nam2014}{{41}{2014}{{Nam}}{{}}}
+\bibcite{Naykki2014}{{42}{2014}{{N{\"{a}}ykki et~al.}}{{N{\"{a}}ykki, J{\"{a}}rvel{\"{a}}, Kirschner \& J{\"{a}}rvenoja}}}
+\bibcite{onrubia2012role}{{43}{2012}{{Onrubia \& Engel}}{{}}}
+\bibcite{orvis2006computer}{{44}{2006}{{Orvis \& Lassiter}}{{}}}
+\bibcite{Pekrun2014}{{45}{2014}{{Pekrun}}{{}}}
+\bibcite{Pekrun2011}{{46}{2011}{{Pekrun et~al.}}{{Pekrun, Goetz, Frenzel, Barchfeld \& Perry}}}
+\bibcite{Pekrun2002}{{47}{2002}{{Pekrun et~al.}}{{Pekrun, Goetz, Titz \& Perry}}}
+\bibcite{Poria2014}{{48}{2014}{{Poria et~al.}}{{Poria, Cambria, Winterstein \& Huang}}}
+\bibcite{rao1995bdi}{{49}{1995}{{Rao et~al.}}{{Rao, Georgeff et~al.}}}
+\bibcite{Rapisarda2002}{{50}{2002}{{Rapisarda}}{{}}}
+\bibcite{Reis2018}{{51}{2018}{{Reis et~al.}}{{Reis, Isotani, Rodriguez, Lyra, Jaques \& Bittencourt}}}
+\bibcite{Rogat2015}{{52}{2015}{{Rogat \& Adams-Wiggins}}{{}}}
+\bibcite{Sanglerdsinlapachai2014}{{53}{2014}{{Sanglerdsinlapachai et~al.}}{{Sanglerdsinlapachai, Plangprasopchok \& Nantajeewarawat}}}
+\bibcite{schwarz2011moderation}{{54}{2011}{{Schwarz \& Asterhan}}{{}}}
+\bibcite{Slof2016}{{55}{2016}{{Slof et~al.}}{{Slof, Nijdam \& Janssen}}}
+\bibcite{soller2001supporting}{{56}{2001}{{Soller}}{{}}}
+\bibcite{stahl2020theories}{{57}{2020}{{Stahl \& Hakkarainen}}{{}}}
+\bibcite{tchounikine2010computer}{{58}{2010}{{Tchounikine et~al.}}{{Tchounikine, Rummel \& McLaren}}}
+\bibcite{Tedesco2003}{{59}{2003}{{Tedesco}}{{}}}
+\bibcite{Verbiest2015}{{60}{2015}{{Verbiest et~al.}}{{Verbiest, Vermeulen \& Teredesai}}}
+\bibcite{Wall1986}{{61}{1986}{{Wall \& Galanes}}{{}}}
+\bibcite{Wang2016b}{{62}{2016}{{Wang et~al.}}{{Wang, Tong, Ruan \& Li}}}
+\bibcite{Zachary1977}{{63}{1977}{{Zachary}}{{}}}
+\bibcite{Zakaria2009}{{64}{2009}{{Zakaria et~al.}}{{Zakaria, Cur{\'{e}} \& Sma{\"{i}}li}}}
+\bibcite{Zheng2016}{{65}{2016}{{Zheng \& Huang}}{{}}}
+\gdef \@abspage@last{16}
